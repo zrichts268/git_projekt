@@ -21,7 +21,7 @@
 
 $a = 105;
 
-$b = 15;
+$b 5=  155;
 
 $c = 12;
 
@@ -31,7 +31,7 @@ $d = 34;
 
 print  $a+$b+$c;
 
- 
+ / /t hon beztvfekszeruiG
 
 //Kivonás
 
