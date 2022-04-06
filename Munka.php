@@ -92,7 +92,7 @@ $masik=5;
 print  $egyik:$masik;
 
  
-
+// Saját gépen frissitve
  
 
 ?>
